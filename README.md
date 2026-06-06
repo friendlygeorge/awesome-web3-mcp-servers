@@ -131,6 +131,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) - An MCP server that bridges Dune Analytics data to AI agents.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Fetches real-time cryptocurrency prices, market cap, and volume data from CoinMarketCap.
 - [badger3000/okx-mcp-server](https://github.com/badger3000/okx-mcp-server) - This project creates a Model Context Protocol (MCP) server that fetches real-time cryptocurrency data from the OKX exchange.
+- [friendlygeorge/coingecko-mcp-server](https://github.com/friendlygeorge/coingecko-mcp-server) - Free crypto market data via CoinGecko API. Search coins, get prices, market caps, trending data, historical charts, and global market stats. No API key required. 8 tools.
 - [crazyrabbitLTC/mcp-coingecko-server](https://github.com/crazyrabbitLTC/mcp-coingecko-server) - An Model Context Protocol (MCP) server and OpenAI function calling service for interacting with the CoinGecko Pro API.
 - [kukapay/blockbeats-mcp](https://github.com/kukapay/blockbeats-mcp) -  An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
 - [kukapay/cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) -  Providing real-time access to the latest news from Cointelegraph.
