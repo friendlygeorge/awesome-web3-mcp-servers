@@ -73,6 +73,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [RomThpt/mcp-xrpl](https://github.com/RomThpt/mcp-xrpl) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services for the XRP Ledger ecosystem.
 - [hawkli-1994/go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp) - A Go-based management control plane server for Sui blockchain, providing MCP (Management Control Plane) tools to interact with local Sui client commands. This project integrates with Cursor IDE for enhanced development experience.
 
+- [friendlygeorge/etherscan-mcp-server](https://github.com/friendlygeorge/etherscan-mcp-server) - Ethereum blockchain explorer API — query addresses, transactions, token transfers, contract ABIs, and gas prices.
 
 ### 💰 <a name="trading"></a>Trading
 
@@ -115,6 +116,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
 
+- [friendlygeorge/defillama-mcp-server](https://github.com/friendlygeorge/defillama-mcp-server) - DeFi TVL, yields, protocols, chains, and stablecoin data from DeFiLlama.
 
 ### 📊 <a name="market-data"></a>Market Data
 
@@ -153,6 +155,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
 
+- [friendlygeorge/coingecko-mcp-server](https://github.com/friendlygeorge/coingecko-mcp-server) - Real-time crypto prices, market data, historical charts, and token info from CoinGecko.
 
 ### 🛠️ <a name="tool"></a>Tool
 
